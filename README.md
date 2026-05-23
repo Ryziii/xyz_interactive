@@ -2,6 +2,8 @@
 
 通过小宇宙 API 获取播客全量剧集列表，生成标准 RSS XML。
 
+> 本项目出于学习目的，代码全部由 DeepSeek V4 Flash 编写。
+
 ## 前置条件
 
 - Python 3.7+
